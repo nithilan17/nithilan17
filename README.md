@@ -1,6 +1,6 @@
 ## Hi, I'm Nithilan!👋
 - 🏫 I'm a 3rd year Undergrad Student at UIUC
-- 🌱 I’m currently learning Cloud Computing, GenAI, and Deep Learning
+- 🌱 I’m currently learning Data Management in the Cloud and AI
 <!--
 **nithilan17/nithilan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
