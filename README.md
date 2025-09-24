@@ -1,6 +1,6 @@
 ## Hi, I'm Nithilan!👋
 - 🏫 I'm a junior at UIUC studying CS and Economics
-- 🌱 Currently learning Data Management in the Cloud and Artificial Intelligence
+- 🌱 Currently learning Databases, Distributed Systems, and Programming Languages and Compilers
 - 🔭 Aspiring SDE
   
 <!--
